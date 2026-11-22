@@ -1,6 +1,6 @@
 # Memory Match
 
-A 4×3 Memory Matching Game made for **CC104 · Section Group XX**.
+A 4×3 Memory Matching Game made by **Group 7**.
 Flip two cards at a time and find all 6 pairs. The layout follows our Figma design.
 
 ## Group Members
@@ -11,8 +11,6 @@ Flip two cards at a time and find all 6 pairs. The layout follows our Figma desi
 | Valdez, Jaypee V. (Member 2) | Card data and shuffle | `js/config.js`, `js/deck.js`, `js/shuffle.js` |
 | Quitaleg, Frenz Jhonard R. (Member 3) | Click and match logic | `js/render.js`, `js/click.js`, `js/match.js` |
 | Abalos, Andre M. | Score, win, reset, docs (Member 4)| `js/score.js`, `js/reset.js`, `README.md` |
-
-(Replace "Member 1–4" with your real names before you submit.)
 
 ## How to Play
 
